@@ -1,0 +1,22 @@
+.body{
+		background-image: url(plane.jpg);
+	
+	}
+	h1{
+		text-align: center;
+		font-size: 40px;
+		font-weight: bold;
+
+	}
+	p{
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+	}
+	.form{
+		margin-left: 500px; margin-right: 400px;
+		font-size: 20px;
+		font color: black;
+		border-style: solid;
+
+	}

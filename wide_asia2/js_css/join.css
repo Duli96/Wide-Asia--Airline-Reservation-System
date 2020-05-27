@@ -1,0 +1,27 @@
+.body{
+	text-align: center;
+	background-image: url(job.jpg);
+	background-repeat: no-repeat;
+	background-size: 1520px 1000px;
+	background-color: lightblue;
+}
+
+h1{
+	font-size: 65px;
+	font-weight: bold;
+}
+
+h3{
+	font-size: 25px;
+	font-weight: bold;
+	font-style: italic;
+	margin-left: 400px;margin-right: 400px;
+
+}
+
+.form{
+	margin-left: 400px;margin-right: 400px;
+	font-size: 20px;
+	font-weight: bold;
+	border-style: solid;
+}

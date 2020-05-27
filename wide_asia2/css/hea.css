@@ -1,0 +1,10 @@
+header{
+	background:#eee;
+	overflow:auto;
+}
+
+
+header.loggedin{
+	float:right;
+}
+

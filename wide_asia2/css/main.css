@@ -1,0 +1,53 @@
+* {
+	margin: 0;
+}
+
+body {
+	font-family:Calibri;
+	font-size: 14px;
+}
+
+.login {
+	width: 350px;
+	margin: 100px auto;
+}
+
+p {
+	margin-bottom: 15px;
+}
+
+p.error {
+	background: red;
+	color: white;
+	padding: 10px;
+}
+
+input {
+	display: block;
+	width: 100%;
+	padding: 5px;
+	font-size: 14px;
+}
+
+button {
+	width: 150px;
+	padding: 5px;
+
+	
+}
+
+header {
+	background: #eee;
+	overflow: auto;
+	padding: 10px;
+}
+
+header .appname {
+	float: left;
+
+}
+
+header .loggedin {
+	float: right;
+}
+

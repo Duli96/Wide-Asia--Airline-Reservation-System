@@ -1,0 +1,381 @@
+.{
+	margin:0;
+	padding:0;
+}
+/*...Set the body margin..*/
+
+body {
+  margin: 0;
+}
+
+/*...style the header...*/
+
+header
+{
+	
+	 background: linear-gradient(#13547a,#80d0c7);
+	
+}
+
+
+
+
+
+
+
+
+/*......style shortcut icon..*/
+
+.link
+{
+	height:80px;
+	width:80px;
+	
+}
+
+.img
+{   float:left;
+	width:100px;
+	height:100px;
+	padding:100px;
+	
+}
+
+.footer {
+    background-color:;
+    padding:10px;
+   
+}
+.connect
+{   float:right;
+	width:50%;
+	height:121px;
+	text-align:center;
+	padding-right:0px;
+	background: linear-gradient(#accbee,#e7f0fd);
+	
+	 margin:0;
+}
+
+.ul
+{   float:left;
+	width:50%;
+	height:121px;
+	background: linear-gradient(#accbee,#e7f0fd);
+	margin:0;
+}
+.icon
+{   
+	height:40px;
+	width:40px;
+	
+}
+.facebook
+{
+	height:50px;
+	width:50px;
+	
+}
+.form
+{
+	width:50%;
+	float:center;
+	background-color:
+}
+.other
+{
+	
+	width:50%;
+}
+.rectangle {
+  height: 50px;
+  width: 100px;
+ background: linear-gradient(#13547a,#80d0c7);     
+       
+  text-align:center;
+  font-size:17px;
+  float:center;
+  border-radius:4px;
+}
+.rectangle1 {
+  height: 50px;
+  width: 120px;
+  background-color: #297EDD      ;
+  text-align:center;
+  float:center;
+  border-radius:9px;
+}
+
+.container
+{
+	float:center;
+	width:80%;
+	 background: linear-gradient(#13547a,#80d0c7);
+	padding:10px;
+	 border-radius: 4px;
+	 opacity:0.8;
+}
+
+.col-75 {
+    float: left;
+    width: 30%;
+    margin-top: 5px;
+    background-color:red;
+}
+.col-25 {
+    float: left;
+    width: 30%;
+ background-color:;
+    margin-top: 9px;
+}
+.row
+{
+  align:left;	
+ 
+}
+select {
+	
+    width: 60%;
+	height:40px;
+    background-color:;
+    border: none;
+    border-radius: 9px;
+    
+}
+.date
+{
+	
+	 width: 60%;
+	height:40px;
+    background-color:;
+    border: none;
+    border-radius: 9px;
+	
+	
+}
+.submit
+{
+	padding:20px;
+	width:170px;
+	background-color:#D51E08    ;
+	border-radius:8px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	
+	
+}
+.nav
+{
+	width:100%;
+	height:10%;
+	background-color:;
+	margin:0 auto;
+	
+}
+.active
+{
+	background-color:green;
+	
+}
+
+	
+	
+.input
+{
+	
+	width:15.65%;
+	height:45px;
+	cursor: pointer;
+	border-radius:9px;
+	 background-color: #216DF3    ;
+	 font-size:20px;
+	 font-weight:bold;
+	 margin:0% auto;
+}
+
+.input:hover
+{
+color: white;
+background:#16B9E5    ;
+border: 1px solid #fff;
+margin:0 auto;
+}
+.back
+{
+	
+	
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+	width:100%;
+
+	
+	
+}
+.back
+{
+	
+	width:100%;
+	height:100%;
+}
+
+.custom-select
+{   border:none;
+    background-color:;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+	width:15%;
+   float:right;
+  position: relative;
+  font-family: Arial;
+  
+ border:80px
+}
+
+.select-selected {
+  background-color: #E6785D;
+ height:20px;
+  
+  position: absolute;
+ 
+  
+} 
+.form1
+{   float:right;
+	width:20%;
+	border:none;
+    background-color:;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+	  
+}
+.button
+{
+	float:right;
+	border-radius:9px;
+    background-color: #8FD9DA  ;
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	
+}
+.other
+{
+	width:50%;
+	background-color:;
+	float:right;
+	text-align:center;
+	background-color:;
+	
+}
+
+
+
+
+
+.rectangle3 {
+  height: 60%;
+  width: 70%;
+  background-color: white;
+  text-align:center;
+  float:center;
+  border-radius:2px;
+  opacity:0.8;
+  text-decoration:white;
+}
+.button1
+{
+	float:center;
+	border-radius:9px;
+    background-color: #E23A30  ;
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	opacity:0.9;
+	
+}
+.button3
+{
+	
+	
+float:center;
+	border-radius:5px;
+    background-color: #4BCF59  ;
+    
+    border: none;
+    color: white;
+    padding: 2px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	opacity:0.9;
+		
+	
+	
+}
+.submit
+{
+	padding:10px;
+	width:150px;
+	background-color:red   ;
+	border-radius:8px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	
+	
+}
+.privacy
+{
+	width:90%;
+	text-align:left;
+	float:right;
+	
+	
+}
+.............................................................................................
+
+body { 
+    background-image: url("Las-Vegas-Skyline.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+.image
+{   
+	width:100%;
+	//....height:100%;
+	background-image: url("wallpaper2you_259103.jpg");
+	  background-repeat: no-repeat;
+    background-attachment: fixed;
+   background-position: center; 
+   //..background-color:red;
+}
+.footer
+{
+	width:100%;
+	background-color:red;
+	height:100%;
+	
+}

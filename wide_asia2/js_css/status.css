@@ -1,0 +1,62 @@
+input[type=text] {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+	margin:0 auto;
+}
+
+input[type=submit] {
+    width: 20%;
+    background-color: #CC1A43 ;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+	margin:0 auto;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+	margin:0 auto;
+}
+.rectangle5
+{
+	height: 100%;
+  width: 100%;
+  background-color: white      ;
+  text-align:center;
+  float:center;
+  border-radius:;
+  font-size:30px;
+	margin:0 auto;
+	
+}
+.new
+{
+	
+	
+	height: 100%;
+  width: 100%;
+  background-color: white      ;
+  text-align:center;
+  float:center;
+  border-radius:9px;
+  margin:0 auto;
+}
+.dat
+{
+	
+	 width: 20%;
+	height:40px;
+    background-color:;
+    border: 1;
+    border-radius: 9px;
+	font-size:20px;
+	
+}

@@ -1,0 +1,44 @@
+header {
+	background: #eee;
+	overflow: auto;
+	padding: 10px;
+}
+
+
+
+header .appname {
+	float: left;
+	font-family:Calibri;
+
+}
+
+header .loggedin {
+	float: right;
+	font-family:Calibri;
+}
+
+main{
+	width:1000px;
+	margin:30px auto;
+}
+
+main h1{
+	margin-bottom:20px;
+	font-size:20px;
+}
+
+main h1 span{
+	font-size:20px;
+}
+
+table.masterlist{
+	width:100px;
+}
+
+table.masterlist th{
+	background:#eee;
+}
+
+
+
+

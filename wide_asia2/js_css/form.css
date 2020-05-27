@@ -1,0 +1,84 @@
+.personal
+{
+	width:90%;
+	height:100%;
+	background-color:;
+	float:center;
+	text-align:left;
+	font-size:20px;
+	float:right;
+	
+	
+}
+.coloumn {
+    float: right;
+    width: 50%;
+    margin-top: 5px;
+    background-color:green;
+	font-size:40px;
+}
+
+.row
+{
+  align:left;	
+ 
+}
+input
+{
+	width:30%;
+	float:center;
+	padding:10px;
+	border-radius:4px;
+	tab-size:20;
+	padding-right:0px;
+}
+
+.check
+{
+	width:2%;
+	
+}
+
+.check1
+{
+	width:1%;
+	
+}
+
+.submit
+{
+	padding:20px;
+	width:250px;
+	background-color:#1CD42A       ;
+	border-radius:8px;
+	text-align:center;
+	font-size:20px;
+	font-weight:bold;
+	
+	
+	
+}
+
+
+.button4
+{
+	
+	
+    float:center;
+	border-radius:5px;
+    background-color: red ;
+    
+    border: none;
+    color: white;
+    padding: 2px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	opacity:0.9;
+		
+	
+	
+}
